@@ -1,0 +1,4 @@
+cdnode_modules/
+*.log
+__pycache__/
+.env

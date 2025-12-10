@@ -1,0 +1,10 @@
+node_modules/
+__pycache__/
+*.log
+.env
+__pycache__/
+*.pyc
+uploads/
+exports/
+draft_versions/
+comments.json
